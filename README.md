@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Saranya 👋
 
-<!--
-**saranyareddy28/saranyareddy28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS master's student at **University of Texas at Arlington**, building projects at the intersection of AI, machine learning, and data analysis.
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-00796B?style=flat&logo=codewars&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 Interests
+AI fairness · Dataset bias & model generalization · Game AI · Algorithm design · Web development
+
+### 📚 Currently learning
+Python · Machine learning pipelines · Data visualization · AI-powered development
+
+### 🤝 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saranyareddyp/)
